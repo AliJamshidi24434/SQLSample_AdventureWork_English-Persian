@@ -16,8 +16,10 @@ The `persian_adventureworks_heavy.sql` file is a `.sql` script, so you can run (
 ### نسخه انگلیسی دیتابیس Adventure Work
 فایل نسخه اصلی دیتابیس Adventure Work از مایکروسافت با پسوند بک آپ `.bak` در ریپازیتوری با نام `AdventureWorksLT2022.bak`
 یا دانلود مستقیم از ماکروسافت -> [لینک دانلود ماکروسافت](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms#download-backup-files)
+
 آموزش وارد کردن دیتابیس با فرمت `.bak` در SQL Server Management Studio [لینک آموزش ماکروسافت](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 
 ### دیتابیس مشابه فارسی
 این دیتابیس بوسیله چت جی بی تی 5 ساخته شده است
+
 فایل `persian_adventureworks_heavy.sql` یک اسکریپت `.sql` است که می توانید آنرا در SQL Server یا SSMS یا Azure Data Studio اجرا (execute) کنید تا کل دیتابیس به سیستم شما اضافه شود
